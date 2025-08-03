@@ -1,0 +1,2 @@
+# Multivariable time series forecasting using DeepTVAR Model
+The project focuses on forecasting multivariate time series using DeepTVAR, a model that combines time-varying VAR theory with LSTM networks. The goal is to dynamically learn changing relationships between variables over time, improving forecast accuracy compared to traditional VAR methods.
